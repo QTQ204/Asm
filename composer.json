@@ -1,0 +1,21 @@
+{
+    "name": "quang/asm",
+    "autoload": {
+        "psr-4": {
+            "Quang\\Asm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "QTQ204",
+            "email": "quanglpmph45121@fpt.edu.vn"
+        }
+    ],
+    "require": {
+        "bramus/router": "~1.6",
+        "eftec/bladeone": "^4.13",
+        "doctrine/dbal": "^4.0",
+        "rakit/validation": "^1.4",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
