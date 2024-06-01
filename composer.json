@@ -3,7 +3,10 @@
     "autoload": {
         "psr-4": {
             "Quang\\Asm\\": "src/"
-        }
+        },
+        "files": [
+            "helper.php"
+        ]
     },
     "authors": [
         {
