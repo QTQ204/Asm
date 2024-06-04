@@ -7,8 +7,8 @@ use Quang\Asm\Commons\Controller;
 class HomeController extends Controller
 {
     public function index() {
-        $name = 'DucTV44';
-
+        $name = 'QTQ204';
+        
         $this->renderViewClient('home', [
             'name' => $name
         ]);
